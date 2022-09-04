@@ -82,7 +82,6 @@ export default {
   margin: 0 auto;
   display: grid;
   height: 320px;
-  overflow: hidden;
 }
 
 @media screen and (max-width: 580px) {
