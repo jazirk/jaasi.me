@@ -42,7 +42,7 @@
         ></span>
       </div>
     </div>
-    <div class="wrapper">
+    <!-- <div class="wrapper">
       <div class="icon logo">
         <div class="tooltip">Instagram</div>
         <span
@@ -53,13 +53,13 @@
             ><i class="fab fa-instagram fa-lg"></i></a
         ></span>
       </div>
-    </div>
+    </div> -->
     <div class="wrapper">
       <div class="icon logo">
         <div class="tooltip">Twitter</div>
         <span
           ><a
-            href="https://jaasi.me/twitter"
+            href="https://twitter.com/iamjaasi"
             target="_blank"
             rel="noopener noreferrer"
             ><i class="fab fa-twitter fa-lg"></i></a
@@ -71,7 +71,7 @@
         <div class="tooltip">LinkedIn</div>
         <span
           ><a
-            href="https://jaasi.me/linkedin"
+            href="https://linkedin.com/in/jazirk"
             target="_blank"
             rel="noopener noreferrer"
             ><i class="fab fa-linkedin fa-lg"></i></a
@@ -79,7 +79,9 @@
       </div>
     </div>
     <div style="margin-top: 1.2rem">
-      <a href="https://jaasi.me/resume">
+      <a
+        href="https://drive.google.com/file/d/1Wz9WuiNz6wqmeuPxK2EnLdgMYfQ9D7Ai/view?usp=sharing"
+      >
         <div class="contact-me">Download Resume</div>
       </a>
     </div>
