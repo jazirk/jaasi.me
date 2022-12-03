@@ -45,12 +45,12 @@ export default {
             "Developed and designed Roll the Dice game with <strong>HTML5, CSS3 and JavaScript</strong>.",
           link: "https:/jazirk.github.io/Roll-the-dice/",
         },
-        // {
-        //   title: "Portfolio Website",
-        //   emoji: "🙋‍♂️",
-        //   description: "My Portfolio website made in Vue.js",
-        //   link: "https://visheshbansal.ml/gh/Portfolio-Website",
-        // },
+        {
+          title: "Portfolio Website",
+          emoji: "🙋‍♂️",
+          description: "My Portfolio website made in Vue.js",
+          link: "https://jaasi.me",
+        },
       ],
       isExpanded: false,
     };
