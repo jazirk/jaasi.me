@@ -29,11 +29,11 @@
           <div class="content">
             <a href="https://factset.com" target="_blank">
               <h3>FactSet</h3>
-              <h5>Software Engineer 2</h5>
+              <h5>Software Engineer 3</h5>
               <div class="grey">April 2021 - Present</div>
               <br />
               <p>
-                - Working on initial release of
+                - Scaling up 
                 <strong> PM10x </strong>, enabling portfolio managers to take
                 right calls on their investments.
               </p>
