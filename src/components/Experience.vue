@@ -54,7 +54,7 @@
           <div class="content align-left">
             <a href="https://infrrd.ai" target="_blank">
               <h3>Infrrd</h3>
-              <h5>Software Engineer</h5>
+              <h5>Software Engineer - Frontend</h5>
               <div class="grey">October 2019 - April 2021</div>
               <br />
               <p>
