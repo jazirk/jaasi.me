@@ -80,7 +80,7 @@
     </div>
     <div style="margin-top: 1.2rem">
       <a
-        href="https://drive.google.com/file/d/1BZPharo6wrb2NlrCLO-Du7qNTMb59pRi/view?usp=sharing"
+        href="https://drive.google.com/file/d/1MKdeRRrRWf3NFNarp-L95NV0pykCdpFB/view?usp=share_link"
       >
         <div class="contact-me">Download Resume</div>
       </a>

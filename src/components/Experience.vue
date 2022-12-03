@@ -48,29 +48,6 @@
           </div>
         </li>
       </ul>
-      <!-- <div class="year-container">
-        <span class="year">2017</span>
-      </div>
-      <ul>
-        <br />
-        <br />
-        <br />
-        <li>
-          <div class="content align-left">
-            <a href="https://yit.edu.in" target="_blank">
-              <h3>Yencoders</h3>
-              <h5>Tutor and Co-ordinator</h5>
-              <div class="grey">October 2017 - April 2019</div>
-              <br />
-              <p>
-                - Built reusable UI components, directives and wrote performant
-                code for Homegenius: A real estate transaction management system
-                for a virtual brokerage.
-              </p>
-            </a>
-          </div>
-        </li>
-      </ul> -->
       <div class="green-dot"></div>
     </div>
   </div>
