@@ -86,7 +86,7 @@ export default {
 
 @media screen and (max-width: 580px) {
   .cards {
-    height: 315px;
+    height: 100%;
   }
 }
 
@@ -110,13 +110,13 @@ export default {
 
 @media screen and (min-width: 370px) {
   .cards {
-    height: 302px;
+    height: 100%;
   }
 }
 
 @media screen and (min-width: 900px) and (max-width: 1040px) {
   .cards {
-    height: 370px;
+    height: 100%;
   }
 }
 
