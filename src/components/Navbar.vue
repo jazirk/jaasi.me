@@ -50,7 +50,7 @@
           <i class="fab fa-linkedin fa-lg"></i>
         </li>
       </a>
-      <a
+      <!-- <a
         href="https://drive.google.com/file/d/1BZPharo6wrb2NlrCLO-Du7qNTMb59pRi/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
@@ -63,7 +63,7 @@
               height="20"
           /></span>
         </li>
-      </a>
+      </a> -->
     </ul>
   </nav>
 </template>
