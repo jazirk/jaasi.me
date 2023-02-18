@@ -31,14 +31,12 @@
             target="_blank"
             rel="noopener noreferrer"
             class="green"
-            href="https://factset.com"
-            >FactSet</a
+            href="https://uber.com"
+            >Uber</a
           >. I work with JavaScript, TypeScript and Node.js ecosystems.
         </p>
         <p class="b-margin">
-          I also love graphic designing. I have prior experience
-          <span class="green-text">UI/UX</span> designing using Figma. Other
-          tools which I use are Adobe Photoshop and Illustrator.
+          I also love graphic designing. I'm a sports enthusiast and decent chef.
         </p>
         <p>My favourite colour is <span class="color">#7CFC06</span>.</p>
       </div>
@@ -124,7 +122,7 @@ li:hover {
 }
 
 .green {
-  color: #18d26e;
+  color: #7CFC06;
   text-decoration: none;
   font-weight: bolder;
   margin: 5px;

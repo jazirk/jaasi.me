@@ -19,20 +19,8 @@ export const redirects = {
     title: "hashnode",
     url: "https://jasir.hashnode.dev/",
   },
-  //   kaggle: {
-  //     title: "kaggle",
-  //     url: "https://kaggle.com/bansalvishesh",
-  //   },
   behance: {
     title: "Behance",
     url: "https://www.behance.net/jasirk",
   },
-  //   dribbble: {
-  //     title: "Dribbble",
-  //     url: "https://dribbble.com/visheshbansal",
-  //   },
-  //   "arc-sw.js": {
-  //     title: "Arc Service Worker",
-  //     url: "https://arc.io/arc-sw.js",
-  //   },
 };

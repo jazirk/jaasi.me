@@ -3,6 +3,27 @@
     <h2>Experience</h2>
     <div class="timeline">
       <div class="year-container">
+        <span class="year">2023</span>
+      </div>
+      <ul>
+        <br /><br /><br />
+        <li>
+          <div class="content">
+            <a href="https://uber.com" target="_blank">
+              <h3>Uber</h3>
+              <h5>Software Engineer 2</h5>
+              <div class="grey">Jan 2023 - Present</div>
+              <br />
+              <!-- <p>
+                - Scaling up 
+                <strong> PM10x </strong>, enabling portfolio managers to take
+                right calls on their investments.
+              </p> -->
+            </a>
+          </div>
+        </li>
+      </ul>
+      <div class="year-container">
         <span class="year">2022</span>
       </div>
       <ul>
@@ -12,7 +33,7 @@
             <a href="https://factset.com" target="_blank">
               <h3>FactSet</h3>
               <h5>Software Engineer 3</h5>
-              <div class="grey">April 2021 - Present</div>
+              <div class="grey">April 2021 - Jan 2023</div>
               <br />
               <p>
                 - Scaling up 

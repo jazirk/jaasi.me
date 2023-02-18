@@ -93,6 +93,17 @@
           /></span>
         </div>
       </div>
+      <div class="wrapper">
+        <div class="icon logo">
+          <div class="tooltip">Go</div>
+          <span
+            ><img
+              class="fa-fastapi"
+              src="../assets/img/logos/go-white.svg"
+              height="20"
+          /></span>
+        </div>
+      </div>
     </div>
   </div>
 </template>
